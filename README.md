@@ -73,8 +73,6 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
       <br>CSS
     </td>
   </tr>
- <tr>
- </tr>
 </table>
 
 ## Github stats 📊
