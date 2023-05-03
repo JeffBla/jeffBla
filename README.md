@@ -1,5 +1,9 @@
-<img src="https://64.media.tumblr.com/04e20b5c4305c7c37c4ea51d3c9d5a46/tumblr_mmwvhaX1CH1r4mh0bo1_500.gifv" alt="👋 Hi there! I'm JeffBla" title="👋 Hi there! I'm JeffBla"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36F7AE&background=000000&vCenter=true&width=435&lines=%E2%9C%8B+Hi+!+I'm+JeffBla" alt="Typing SVG" /></a>
+<a href="https://www.89a.co.uk/post/50603635395/daft-junk">
+<img src="https://64.media.tumblr.com/04e20b5c4305c7c37c4ea51d3c9d5a46/tumblr_mmwvhaX1CH1r4mh0bo1_500.gifv" alt="👋 Hi there! I'm JeffBla" title="👋 Hi there! I'm JeffBla" style="width: 100%; height: 30rem;"/>
+</a>
+<a href="https://git.io/typing-svg" style="position:relative; left: 15px; top:-58px;">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36F7AE&background=000000&vCenter=true&width=435&lines=%E2%9C%8B+Hi+!+I'm+JeffBla" alt="Typing SVG" />
+</a>
 
 <div align="justify">
 
