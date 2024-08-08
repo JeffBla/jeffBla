@@ -7,10 +7,6 @@
 
 <div align="justify">
 
-<a href="https://www.facebook.com/zippy.lin.3">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-</a>
-</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/JeffBla">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -23,7 +19,7 @@
 </div>
 <p></p>
 <p align="justify">
-welcome to my GitHub Page. I am JeffBla and now a CS student. I learn new things about programming and teach these things to others. I love programming and had tried many languages and technologies. Also, I have a media called <a href="https://www.facebook.com/zippy.lin.3">林宸顗</a> that shares My life.
+welcome to my GitHub Page. I am JeffBla and now a CS student. I learn new things about programming and teach these things to others. I love programming and had tried many languages and technologies.
 
 I will keep learning and improve myself.
 Cheers! 🍺
